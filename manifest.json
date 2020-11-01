@@ -1,7 +1,7 @@
 {
   "name": "React Developer Tools",
   "version": "0.0.5",
-  "author": "Powercord",
+  "author": "ItsRauf",
   "description": "Adds React Developer Tools to Chromium Developer Tools.",
   "license": "MIT",
   "appMode": "both"
