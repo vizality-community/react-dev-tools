@@ -3,6 +3,8 @@
   "version": "0.0.5",
   "author": "ItsRauf",
   "description": "Adds React Developer Tools to Chromium Developer Tools.",
+  "icon": "assets/icon.png",
+  "color": "#61dafb",
   "license": "MIT",
   "appMode": "both"
 }

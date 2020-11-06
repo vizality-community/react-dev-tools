@@ -3,8 +3,8 @@ const { remote } = require('electron');
 const unzip = require('unzip-crx');
 const { join } = require('path');
 
-const { Plugin } = require('@entities');
-const { get } = require('@http');
+const { Plugin } = require('@vizality/entities');
+const { get } = require('@vizality/http');
 
 module.exports = class ReactDevtools extends Plugin {
   get path () {
